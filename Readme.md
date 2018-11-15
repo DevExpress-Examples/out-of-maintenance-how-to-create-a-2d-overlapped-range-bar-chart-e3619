@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/OverlappedRangeBarChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/OverlappedRangeBarChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Overlapped Range Bar chart
 
 
